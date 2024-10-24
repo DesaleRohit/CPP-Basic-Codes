@@ -1,0 +1,1 @@
+cout<<"\n index="<<a[i];
